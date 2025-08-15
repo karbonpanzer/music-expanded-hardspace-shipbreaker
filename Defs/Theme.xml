@@ -1,0 +1,50 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Hardspace</defName>
+        <label>Music Expanded: Hardspace</label>
+		<iconPath>UI/Icons/Hardspace</iconPath>
+        <description>After a nice 12 hour shift in a high hazard work zone where maiming and death are common and coming back home pounding back a few beers then getting in a social fight with someone bigger than you, him killing you, and then you wake up the next day and clock back in to work to do it all over again.</description>
+        <sounds>
+            <li>ME_Hardspace_HAB_Window_View</li>
+        </sounds>		
+		<tracks>			
+			<li>ME_Hardspace_Crows_Feet</li>
+			<li>ME_Hardspace_Frontierbound</li>
+			<li>ME_Hardspace_Gold_Digger</li>
+			<li>ME_Hardspace_Hitched_High_Rail</li>
+			<li>ME_Hardspace_Holding_On</li>
+			<li>ME_Hardspace_Labour_of_Love</li>
+			<li>ME_Hardspace_Long_Road</li>
+			<li>ME_Hardspace_One_Day_Longer</li>
+			<li>ME_Hardspace_Project_L</li>
+			<li>ME_Hardspace_Red_Sunset</li>
+			<li>ME_Hardspace_Roots_Song</li>
+			<li>ME_Hardspace_Roots_Song_Alt</li>
+			<li>ME_Hardspace_Salvation</li>
+			<li>ME_Hardspace_Suthern_Gothic</li>
+			<li>ME_Hardspace_The_Miners</li>
+			<li>ME_Hardspace_The_Traveler</li>
+
+			<li>ME_Hardspace_Crows_Feet_Tense</li>
+			<li>ME_Hardspace_Frontierbound_Tense</li>
+			<li>ME_Hardspace_Gold_Digger_Tense</li>
+			<li>ME_Hardspace_Hitched_High_Rail_Tense</li>
+			<li>ME_Hardspace_Holding_On_Tense</li>
+			<li>ME_Hardspace_Labour_of_Love_Tense</li>
+			<li>ME_Hardspace_Long_Road_Tense</li>
+			<li>ME_Hardspace_One_Day_Longer_Tense</li>
+			<li>ME_Hardspace_Project_L_Tense</li>
+			<li>ME_Hardspace_Red_Sunset_Tense</li>
+			<li>ME_Hardspace_Roots_Song_Tense</li>
+			<li>ME_Hardspace_Roots_Song_Alt_Tense</li>
+			<li>ME_Hardspace_Salvation_Tense</li>
+			<li>ME_Hardspace_Suthern_Gothic_Tense</li>
+			<li>ME_Hardspace_The_Miners_Tense</li>
+			<li>ME_Hardspace_The_Traveler_Tense</li>			
+
+			<li>ME_Hardspace_Everwork</li>
+			<li>ME_Hardspace_Opening_Cinematic</li>
+			<li>ME_Hardspace_Closing_Cinematic</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
