@@ -1,198 +1,234 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Crows Feet</label>
+		<label>Hardspace - Crows Feet</label>
 		<defName>ME_Hardspace_Crows_Feet</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Crows Feet</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Frontierbound</label>
+		<label>Hardspace - Frontierbound</label>
 		<defName>ME_Hardspace_Frontierbound</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Frontierbound</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Gold Digger</label>
+		<label>Hardspace - Gold Digger</label>
 		<defName>ME_Hardspace_Gold_Digger</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Gold Digger</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Hitched High Rail</label>
+		<label>Hardspace - Hitched High Rail</label>
 		<defName>ME_Hardspace_Hitched_High_Rail</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Hitched High Rail</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Holding On</label>
+		<label>Hardspace - Holding On</label>
 		<defName>ME_Hardspace_Holding_On</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Holding On</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Labour of Love</label>
+		<label>Hardspace - Labour of Love</label>
 		<defName>ME_Hardspace_Labour_of_Love</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Labour of Love</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Long Road</label>
+		<label>Hardspace - Long Road</label>
 		<defName>ME_Hardspace_Long_Road</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Long Road</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- One Day Longer</label>
+		<label>Hardspace - One Day Longer</label>
 		<defName>ME_Hardspace_One_Day_Longer</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- One Day Longer</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Project L</label>
+		<label>Hardspace - Project L</label>
 		<defName>ME_Hardspace_Project_L</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Project L</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Red Sunset</label>
+		<label>Hardspace - Red Sunset</label>
 		<defName>ME_Hardspace_Red_Sunset</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Red Sunset</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Roots Song</label>
+		<label>Hardspace - Roots Song</label>
 		<defName>ME_Hardspace_Roots_Song</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Roots Song</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Roots Song (Alt)</label>
+		<label>Hardspace - Roots Song (Alt)</label>
 		<defName>ME_Hardspace_Roots_Song_Alt</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Roots Song (Alt)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Salvation</label>
+		<label>Hardspace - Salvation</label>
 		<defName>ME_Hardspace_Salvation</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Salvation</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Suthern Gothic</label>
+		<label>Hardspace - Suthern Gothic</label>
 		<defName>ME_Hardspace_Suthern_Gothic</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Suthern Gothic</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- The Miners</label>
+		<label>Hardspace - The Miners</label>
 		<defName>ME_Hardspace_The_Miners</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- The Miners</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- The Traveler</label>
+		<label>Hardspace - The Traveler</label>
 		<defName>ME_Hardspace_The_Traveler</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- The Traveler</clipPath>
+		<vanillaLogic>true</vanillaLogic>
 	</MusicExpanded.TrackDef>
 	
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Crows Feet Tense</label>
+		<label>Hardspace - Crows Feet (Tense)</label>
 		<defName>ME_Hardspace_Crows_Feet_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Crows Feet (Tense)</clipPath>
-        <cue>BattleSmall</cue>		
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>		
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Frontierbound (Tense)</label>
+		<label>Hardspace - Frontierbound (Tense)</label>
 		<defName>ME_Hardspace_Frontierbound_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Frontierbound (Tense)</clipPath>
-        <cue>BattleSmall</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Gold Digger (Tense)</label>
+		<label>Hardspace - Gold Digger (Tense)</label>
 		<defName>ME_Hardspace_Gold_Digger_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Gold Digger (Tense)</clipPath>
-        <cue>BattleSmall</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Hitched High Rail (Tense)</label>
+		<label>Hardspace - Hitched High Rail (Tense)</label>
 		<defName>ME_Hardspace_Hitched_High_Rail_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Hitched High Rail (Tense)</clipPath>
-        <cue>BattleSmall</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Holding On (Tense)</label>
+		<label>Hardspace - Holding On (Tense)</label>
 		<defName>ME_Hardspace_Holding_On_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Holding On (Tense)</clipPath>
-        <cue>BattleMedium</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Labour of Love (Tense)</label>
+		<label>Hardspace - Labour of Love (Tense)</label>
 		<defName>ME_Hardspace_Labour_of_Love_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Labour of Love (Tense)</clipPath>
-        <cue>BattleMedium</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Long Road (Tense)</label>
+		<label>Hardspace - Long Road (Tense)</label>
 		<defName>ME_Hardspace_Long_Road_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Long Road (Tense)</clipPath>
-        <cue>BattleMedium</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- One Day Longer (Tense)</label>
+		<label>Hardspace - One Day Longer (Tense)</label>
 		<defName>ME_Hardspace_One_Day_Longer_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- One Day Longer (Tense)</clipPath>
-        <cue>BattleMedium</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Project L (Tense)</label>
+		<label>Hardspace - Project L (Tense)</label>
 		<defName>ME_Hardspace_Project_L_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Project L (Tense)</clipPath>
-        <cue>BattleLarge</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Red Sunset (Tense)</label>
+		<label>Hardspace - Red Sunset (Tense)</label>
 		<defName>ME_Hardspace_Red_Sunset_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Red Sunset (Tense)</clipPath>
-        <cue>BattleLarge</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Roots Song (Tense)</label>
+		<label>Hardspace - Roots Song (Tense)</label>
 		<defName>ME_Hardspace_Roots_Song_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Roots Song (Tense)</clipPath>
-        <cue>BattleLarge</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Roots Song Alt (Tense)</label>
+		<label>Hardspace - Roots Song Alt (Tense)</label>
 		<defName>ME_Hardspace_Roots_Song_Alt_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Roots Song (Alt) (Tense)</clipPath>
-        <cue>BattleLarge</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Salvation (Tense)</label>
+		<label>Hardspace - Salvation (Tense)</label>
 		<defName>ME_Hardspace_Salvation_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Salvation (Tense)</clipPath>
-        <cue>BattleLegendary</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>	
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Suthern Gothic (Tense)</label>
+		<label>Hardspace - Suthern Gothic (Tense)</label>
 		<defName>ME_Hardspace_Suthern_Gothic_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Suthern Gothic (Tense)</clipPath>
-        <cue>BattleLegendary</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- The Miners (Tense)</label>
+		<label>Hardspace - The Miners (Tense)</label>
 		<defName>ME_Hardspace_The_Miners_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- The Miners (Tense)</clipPath>
-        <cue>BattleLegendary</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- The Traveler (Tense)</label>
+		<label>Hardspace - The Traveler (Tense)</label>
 		<defName>ME_Hardspace_The_Traveler_Tense</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- The Traveler (Tense)</clipPath>
-        <cue>BattleLegendary</cue>			
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>			
 	</MusicExpanded.TrackDef>	
 	
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Everwork Theme</label>
+		<label>Hardspace - Everwork Theme</label>
 		<defName>ME_Hardspace_Everwork</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Everwork Theme</clipPath>
         <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
     </MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Opening Cinematic</label>
+		<label>Hardspace - Opening Cinematic</label>
 		<defName>ME_Hardspace_Opening_Cinematic</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Opening Cinematic</clipPath>
         <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
     </MusicExpanded.TrackDef>
 	<MusicExpanded.TrackDef>
-		<label>Hardspace- Closing Cinematic</label>
+		<label>Hardspace - Closing Cinematic</label>
 		<defName>ME_Hardspace_Closing_Cinematic</defName>
 		<clipPath>MusicExpanded/Hardspace/Hardspace- Closing Cinematic</clipPath>
         <cue>Credits</cue>
+        <playOnMap>false</playOnMap>
     </MusicExpanded.TrackDef>	
 </Defs>
